@@ -1,0 +1,8 @@
+D:\Visual Studio\Listaligada\Listaligada\bin\Debug\Listaligada.exe.config
+D:\Visual Studio\Listaligada\Listaligada\bin\Debug\Listaligada.exe
+D:\Visual Studio\Listaligada\Listaligada\bin\Debug\Listaligada.pdb
+D:\Visual Studio\Listaligada\Listaligada\obj\Debug\Listaligada.csproj.AssemblyReference.cache
+D:\Visual Studio\Listaligada\Listaligada\obj\Debug\Listaligada.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Listaligada\Listaligada\obj\Debug\Listaligada.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Listaligada\Listaligada\obj\Debug\Listaligada.exe
+D:\Visual Studio\Listaligada\Listaligada\obj\Debug\Listaligada.pdb
